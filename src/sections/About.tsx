@@ -159,7 +159,7 @@ export const AboutSection = () => {
         <SectionHeader
           eyebrow="About Me"
           title="A Glimpse into my World"
-          description="Learn about who I am, what i do and what inspires me."
+          description="Learn about who I am, what I do and what inspires me."
         />
         <div className="mt-20 flex flex-col gap-8">
           <div className="grid grid-cols-1 gap-8 md:grid-cols-5 lg:grid-cols-3">
@@ -169,7 +169,7 @@ export const AboutSection = () => {
                 description="Explore the books shaping my perspectives"
               />
               <div className="w-40 mx-auto mt-2 md:mt-0">
-                <Image src={bookImage} alt="Atomic Habits Book Cover" />
+                <Image src={bookImage} alt="Almanack of Naval Ravikant Book Cover" />
               </div>
             </Card>
             <Card className="h-[320px] md:col-span-3 lg:col-span-2">
